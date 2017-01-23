@@ -1,2 +1,4 @@
+
 # angular-tour-of-heroes
-Angular experiment with TypeScript
+
+Angular 2 experiment with TypeScript
